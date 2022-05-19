@@ -2,12 +2,12 @@
 name: MD RUBEL
 title: Md Rubel | Software Engineer | App Developer
 description: Software engineer based in Dhaka, who specializes in building (and occasionally designing) exceptional, high-quality mobile applications and websites.
-url: https://cv.mdrubel.net/
+url: https://me.mdrubel.net/
 baseurl: ''
 email: hello@mdrubel.net
-cover: https://cv.mdrubel.net/img/og.png
-logo: https://cv.mdrubel.net/img/logo/logo.png
-resume: https://cv.mdrubel.net/resume.pdf
+cover: https://me.mdrubel.net/img/og.png
+logo: https://me.mdrubel.net/img/logo/logo.png
+resume: https://me.mdrubel.net/resume.pdf
 social:
   - title: email
     url: mailto:hello@mdrubel.net

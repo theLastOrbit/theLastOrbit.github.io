@@ -1,12 +1,12 @@
 {
-  "name": "cv.mdrubel.net",
-  "version": "1.0.0",
+  "name": "me.mdrubel.net",
+  "version": "1.0.1",
   "description": "Software engineer based in Dhaka, who specializes in building (and occasionally designing) exceptional, high-quality mobile applications and websites.",
   "repository": {
     "type": "git",
     "url": "https://github.com/md-rubel/md-rubel.github.io"
   },
-  "homepage": "https://cv.mdrubel.net",
+  "homepage": "https://me.mdrubel.net",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp serve --watch",
