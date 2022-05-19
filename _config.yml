@@ -1,6 +1,6 @@
 # Site settings
 name: MD RUBEL
-title: MD RUBEL | Software Engineer | App Developer
+title: Md Rubel | Software Engineer | App Developer
 description: Software engineer based in Dhaka, who specializes in building (and occasionally designing) exceptional, high-quality mobile applications and websites.
 url: https://cv.mdrubel.net/
 baseurl: ''
@@ -11,16 +11,16 @@ resume: https://cv.mdrubel.net/resume.pdf
 social:
   - title: email
     url: mailto:hello@mdrubel.net
+  - title: github
+    url: https://github.com/md-rubel
+  - title: linkedin
+    url: https://www.linkedin.com/in/md-rubel
   - title: twitter
     url: https://twitter.com/MDRUBELofficial
   - title: instagram
     url: https://instagram.com/_md.rubel_
   - title: codepen
     url: http://codepen.io/
-  - title: github
-    url: https://github.com/md-rubel
-  - title: linkedin
-    url: https://www.linkedin.com/in/md-rubel
 
 # Build settings
 markdown: kramdown
