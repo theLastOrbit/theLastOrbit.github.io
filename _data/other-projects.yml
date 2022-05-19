@@ -45,7 +45,7 @@
   code: https://github.com/md-rubel
   description: <a class="underline-link" href="https://deshbarta.news" target="_blank">DeshBarta - online newspaper</a>, <a class="underline-link" href="https://sunamganjnews71.com" target="_blank">SunamganjNews71 - online newspaper</a>, <a class="underline-link" href="https://boi-kendro.com" target="_blank">BoiKendro e-commerce book store</a>, etc.
   used:
-    - thing: WordPress
+    - thing: Wordpress
     - thing: PHP
     - thing: HTML
     - thing: CSS
@@ -57,6 +57,6 @@
   used:
     - thing: Arduino
     - thing: ESP 8266
-    - thing: Realtek RTL-8711 AF
+    - thing: Realtek RTL8711 AF
     - thing: Micro Controllers
     - thing: Embedded C
