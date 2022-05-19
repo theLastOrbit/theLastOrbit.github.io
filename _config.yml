@@ -1,26 +1,26 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://bchiang7.github.io/
+name: MD RUBEL
+title: MD RUBEL | Software Engineer | App Developer
+description: Software engineer based in Dhaka, who specializes in building (and occasionally designing) exceptional, high-quality mobile applications and websites.
+url: https://cv.mdrubel.net/
 baseurl: ''
-email: brittany.chiang@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+email: hello@mdrubel.net
+cover: /img/og.png
+logo: /img/logo/logo.png
+resume: /resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:hello@mdrubel.net
   - title: twitter
-    url: https://twitter.com/bchiang7
+    url: https://twitter.com/MDRUBELofficial
   - title: instagram
-    url: https://instagram.com/bchiang7
+    url: https://instagram.com/_md.rubel_
   - title: codepen
-    url: http://codepen.io/bchiang7
+    url: http://codepen.io/
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/md-rubel
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/md-rubel
 
 # Build settings
 markdown: kramdown
