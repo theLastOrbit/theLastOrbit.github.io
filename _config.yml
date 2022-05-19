@@ -5,9 +5,9 @@ description: Software engineer based in Dhaka, who specializes in building (and 
 url: https://cv.mdrubel.net/
 baseurl: ''
 email: hello@mdrubel.net
-cover: /img/og.png
-logo: /img/logo/logo.png
-resume: /resume.pdf
+cover: https://cv.mdrubel.net/img/og.png
+logo: https://cv.mdrubel.net/img/logo/logo.png
+resume: https://cv.mdrubel.net/resume.pdf
 social:
   - title: email
     url: mailto:hello@mdrubel.net
