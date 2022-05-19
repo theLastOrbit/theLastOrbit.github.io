@@ -1,18 +1,18 @@
 {
-  "name": "brittanychiang.com",
-  "version": "0.0.0",
-  "description": "Design-minded front-end software engineer focused on building beautiful interfaces and experiences",
+  "name": "cv.mdrubel.net",
+  "version": "1.0.0",
+  "description": "Software engineer based in Dhaka, who specializes in building (and occasionally designing) exceptional, high-quality mobile applications and websites.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bchiang7/bchiang7.github.io"
+    "url": "https://github.com/md-rubel/md-rubel.github.io"
   },
-  "homepage": "https://github.com/bchiang7/bchiang7.github.io",
+  "homepage": "https://cv.mdrubel.net",
   "main": "gulpfile.js",
   "scripts": {
     "start": "gulp serve --watch",
     "build": "gulp build"
   },
-  "author": "Brittany Chiang",
+  "author": "MD RUBEL",
   "license": "ISC",
   "devDependencies": {
     "@nuscout/eslint-config": "^0.2.1",
