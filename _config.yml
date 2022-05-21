@@ -19,8 +19,6 @@ social:
     url: https://twitter.com/MDRUBELofficial
   - title: instagram
     url: https://instagram.com/_md.rubel_
-  - title: codepen
-    url: http://codepen.io/
 
 # Build settings
 markdown: kramdown
