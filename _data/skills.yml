@@ -1,13 +1,14 @@
 languages:
   - item: Swift
+  - item: Python
   - item: Dart
   - item: JavaScript
   - item: TypeScript
-  - item: Python
   - item: C++
 
 frameworks:
   - item: SwiftUI
+  - item: Combine
   - item: Flutter
   - item: Node.js
   - item: Tensorflow
