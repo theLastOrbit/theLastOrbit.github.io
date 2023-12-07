@@ -1,6 +1,6 @@
 # Site settings
 name: MD RUBEL
-title: Md Rubel | Software Engineer | App Developer
+title: Md Rubel | Senior Software Engineer
 description: Software engineer based in Dhaka, who specializes in building (and occasionally designing) exceptional, high-quality mobile applications and websites.
 url: https://me.mdrubel.net/
 baseurl: ''
@@ -12,13 +12,13 @@ social:
   - title: email
     url: mailto:hello@mdrubel.net
   - title: github
-    url: https://github.com/md-rubel
+    url: https://github.com/theLastOrbit
   - title: linkedin
-    url: https://www.linkedin.com/in/md-rubel
+    url: https://www.linkedin.com/in/theLastOrbit
   - title: twitter
-    url: https://twitter.com/MDRUBELofficial
+    url: https://twitter.com/_theLastOrbit
   - title: facebook
-    url: https://www.facebook.com/MDRUBEL.net
+    url: https://www.facebook.com/theLastOrbit
 
 # Build settings
 markdown: kramdown

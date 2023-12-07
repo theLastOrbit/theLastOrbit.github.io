@@ -4,7 +4,7 @@
   "description": "Software engineer based in Dhaka, who specializes in building (and occasionally designing) exceptional, high-quality mobile applications and websites.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/md-rubel/md-rubel.github.io"
+    "url": "https://github.com/theLastOrbit/md-rubel.github.io"
   },
   "homepage": "https://me.mdrubel.net",
   "main": "gulpfile.js",
