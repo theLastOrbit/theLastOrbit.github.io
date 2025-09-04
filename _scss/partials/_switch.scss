@@ -59,4 +59,12 @@
       }
     }
   }
+  .pre-arrow-link {
+    font-size: 1.25rem;
+    margin-right: 32px;
+    &:after {
+      width: 20px;
+      height: 20px;
+    }
+  }
 }
