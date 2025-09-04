@@ -1,31 +1,31 @@
 languages:
   - item: Swift
-  - item: Python
-  - item: Dart
+  - item: Kotlin
   - item: JavaScript
-  - item: TypeScript
-  - item: C++
+  - item: GoLang
+  - item: C/C++
 
 frameworks:
+  - item: UIKit
   - item: SwiftUI
   - item: Combine
-  - item: Flutter
-  - item: Node.js
-  - item: Tensorflow
-  - item: Wordpress
+  - item: Alamofire
+  - item: SDWebImage
+  - item: SnapKit
+  - item: Realm
+  - item: SwiftyJSON
+  - item: and many more...
 
 tools:
   - item: Xcode
+  - item: Instruments
+  - item: CocoaPods
   - item: VS Code
   - item: Git & Github
   - item: Postman
-  - item: Insomnia
-  - item: MongoDB
+  - item: Fastlane
 
 design:
   - item: Figma
   - item: Sketch
-  - item: Adobe XD
-  - item: Photoshop
-  - item: Ilistrator
-  - item: User Testing
+  - item: Illustrator
